@@ -1,0 +1,84 @@
+symbol,name,index,date_from,date_to
+AA,Aluminum Company of America,dow30,1990-01-01,1999-10-31
+AA,Alcoa Inc. (formerly Aluminum Company of America),dow30,1999-11-01,2003-01-26
+AA,Alcoa Inc.,dow30,2003-01-27,2013-09-22
+AAPL,Apple Inc.,dow30,2015-03-19,9999-99-99
+AIG,American International Group Inc.,dow30,2004-04-08,2008-09-21
+AMGN,Amgen Inc.,dow30,2020-08-31,9999-99-99
+AXP,American Express Company,dow30,1990-01-01,9999-99-99
+BA,The Boeing Company,dow30,1990-01-01,9999-99-99
+BAC,Bank of America Corporation,dow30,2008-02-19,2013-09-22
+BHMSQ,Bethlehem Steel Corporation,dow30,1990-01-01,1997-03-16
+C,Travelers Inc.,dow30,1997-03-17,1999-10-31
+C,Citigroup Inc. (formerly Travelers Inc.),dow30,1999-11-01,2003-01-26
+C,Citigroup Inc.,dow30,2003-01-27,2009-06-07
+C,The Travelers Companies Inc.,dow30,2009-06-08,9999-99-99
+CAT,Caterpillar Inc.,dow30,1991-05-06,9999-99-99
+CRM,salesforce.com inc.,dow30,2020-08-31,9999-99-99
+CSCO,Cisco Systems Inc.,dow30,2009-06-08,9999-99-99
+CVX,Chevron Corporation,dow30,1990-01-01,9999-99-99
+DIS,The Walt Disney Company,dow30,1991-05-06,9999-99-99
+DOW,E.I. du Pont de Nemours & Company,dow30,1990-01-01,2017-08-31
+DOW,DowDuPont Inc. (formerly E.I. du Pont de Nemours & Company),dow30,2017-09-01,2018-01-31
+DOW,DowDuPont Inc.,dow30,2018-02-01,2019-04-01
+DOW,Dow Inc.,dow30,2019-04-02,9999-99-99
+EKDKQ,Eastman Kodak Company,dow30,1990-01-01,2004-04-07
+GE,General Electric Company,dow30,1990-01-01,2018-06-25
+GM,General Motors Corporation,dow30,1990-01-01,2009-06-07
+GS,The Goldman Sachs Group Inc.,dow30,2013-09-23,9999-99-99
+GT,Goodyear Tire and Rubber Company,dow30,1990-01-01,1999-10-31
+HD,The Home Depot Inc.,dow30,1999-11-01,9999-99-99
+HON,Allied-Signal Incorporated,dow30,1990-01-01,1997-03-16
+HON,AlliedSignal Incorporated,dow30,1997-03-17,2003-01-26
+HON,Honeywell International (formerly AlliedSignal Incorporated),dow30,2003-01-27,2004-04-07
+HON,Honeywell International,dow30,2004-04-08,2005-11-20
+HON,Honeywell International Inc.,dow30,2005-11-21,9999-99-99
+HP,Hewlett-Packard Company,dow30,1997-03-17,2013-09-22
+IBM,International Business Machines Corporation,dow30,1990-01-01,9999-99-99
+INTC,Intel Corporation,dow30,1999-11-01,9999-99-99
+IP,International Paper Company,dow30,1990-01-01,2004-04-07
+JNJ,Johnson & Johnson,dow30,1997-03-17,9999-99-99
+JPM,J.P. Morgan & Company,dow30,1991-05-06,2003-01-26
+JPM,JPMorgan Chase & Co. (formerly J.P. Morgan & Co.),dow30,2003-01-27,2004-04-07
+JPM,JPMorgan Chase & Co.,dow30,2004-04-08,9999-99-99
+KHC,Kraft Foods Inc.,dow30,2008-09-22,2012-09-23
+KO,The Coca-Cola Company,dow30,1990-01-01,9999-99-99
+MCD,McDonald's Corporation,dow30,1990-01-01,9999-99-99
+MMM,Minnesota Mining & Manufacturing Company,dow30,1990-01-01,2003-01-26
+MMM,3M Company (formerly Minnesota Mining & Manufacturing Company),dow30,2003-01-27,2004-04-07
+MMM,3M Company,dow30,2004-04-08,9999-99-99
+MO,Philip Morris Companies Inc.,dow30,1990-01-01,2003-01-26
+MO,Altria Group Incorporated (formerly Philip Morris Companies Inc.),dow30,2003-01-27,2004-04-07
+MO,Altria Group Incorporated,dow30,2004-04-08,2008-02-18
+MRK,Merck & Co. Inc.,dow30,1990-01-01,9999-99-99
+MSFT,Microsoft Corporation,dow30,1999-11-01,9999-99-99
+NAV,Navistar International Corporation (formerly International Harvester Company),dow30,1990-01-01,1991-05-05
+NKE,Nike Inc.,dow30,2013-09-23,9999-99-99
+PFE,Pfizer Inc.,dow30,2004-04-08,2020-08-30
+PG,The Procter & Gamble Company,dow30,1990-01-01,9999-99-99
+RTN,United Technologies Corporation,dow30,1990-01-01,2020-04-05
+RTN,Raytheon Technologies Corporation,dow30,2020-04-06,2020-08-30
+S1,Sears Roebuck & Company,dow30,1990-01-01,1999-10-31
+T,American Telephone and Telegraph Company,dow30,1990-01-01,1991-05-05
+T,AT&T Corporation (formerly American Telephone and Telegraph Company),dow30,1991-05-06,1997-03-16
+T,AT&T Corporation,dow30,1997-03-17,2004-04-07
+T,SBC Communications Inc.,dow30,1999-11-01,2005-11-20
+T,AT&T Inc. (formerly SBC Communications Inc.),dow30,2005-11-21,2008-02-18
+T,AT&T Inc.,dow30,2008-02-19,2015-03-18
+TX1,Texaco Incorporated,dow30,1990-01-01,1997-03-16
+UK1,Union Carbide Corporation,dow30,1990-01-01,1999-10-31
+UNH,UnitedHealth Group Incorporated,dow30,2012-09-24,9999-99-99
+UNH,UnitedHealth Group Inc.,dow30,2013-09-23,2018-06-25
+V,Visa Inc.,dow30,2013-09-23,9999-99-99
+VZ,Verizon Communications Inc.,dow30,2004-04-08,9999-99-99
+WBA,Walgreens Boots Alliance Inc.,dow30,2018-06-26,9999-99-99
+WMT,Wal-Mart Stores Inc.,dow30,1997-03-17,2018-01-31
+WMT,Walmart Inc. (formerly Wal-Mart Stores Inc.),dow30,2018-02-01,2018-06-25
+WMT,Walmart Inc.,dow30,2018-06-26,9999-99-99
+X,USX Corporation (formerly United States Steel Corporation),dow30,1990-01-01,1991-05-05
+XOM,Exxon Corporation,dow30,1990-01-01,2003-01-26
+XOM,Exxon Mobil Corporation (formerly Exxon Corporation),dow30,2003-01-27,2004-04-07
+XOM,Exxon Mobil Corporation,dow30,2004-04-08,2020-08-30
+na,American Can Company,dow30,1990-01-01,1991-05-05
+na,F. W. Woolworth Company,dow30,1990-01-01,1997-03-16
+na,Westinghouse Electric Corporation,dow30,1990-01-01,1997-03-16
